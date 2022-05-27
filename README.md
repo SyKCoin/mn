@@ -5,6 +5,7 @@
 1. sykcoin for Collateral <br>
 (You can buy syk from exchange for collateral) <br>
 ***https://www.exbitron.com/trading/sykbtc <br>***
+***https://www.exbitron.com/trading/sykusdt <br>***
 
 2. Download your Local Wallet: https://github.com/SyKCoin/syk/releases
 
