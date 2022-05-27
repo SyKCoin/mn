@@ -16,10 +16,10 @@
 **VPS WALLET:**
 
 1. After you longin on your VPS , with this command you will download masternode-installer.   
-`wget https://raw.githubusercontent.com/SykCoin/mn-setup/master/mnsetup.sh`  
+`wget https://raw.githubusercontent.com/SykCoin/mn/master/mnsetup.sh`  
 
 
-2. With this command you will make masternode-install-ubuntu-16.04.sh executable.  
+2. With this command you will make mnsetup.sh executable.  
 `sudo chmod +x mnsetup.sh` <br>
 
 
